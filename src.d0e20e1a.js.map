@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["document","getElementById","innerHTML"],"mappings":";;;AAEA,aAFA,QAAA,gBAEAA,SAASC,eAAe,OAAOC,UAA/B","file":"src.d0e20e1a.js","sourceRoot":"..","sourcesContent":["import \"./styles.css\";\n\ndocument.getElementById(\"app\").innerHTML = `\n<h1>Hello Vanilla Ice Cream!</h1>\n<div>\n  We can do this!\n</div>\n`;\n"]}
